@@ -14,5 +14,5 @@ else
            a = a / 10;
          }
     int b = a % 10;
-    Console.WriteLine($"{b} является второй цифрой от числа");
+    Console.WriteLine($"{b} является второй цифрой числа");
 }
